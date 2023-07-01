@@ -1,8 +1,14 @@
+<div align="center">
+
 # Andi Haller's **Tridibot**
 
+</div>
+
+
 <p align="center">
-  <img src="![https://github.com/TransFormInters/Tridibot/assets/17519460/f61ac30a-212d-4749-9628-22cc74c7bef7)" alt="Image" width="400" />
+  <img src="tridibot1.png" alt="Image" width="400" />
 </p>
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 We've had a soft spot for this adorable little robot for quite a while now. It's like love at first sight! Unlike most robots, Tridibot doesnt take the sceanic route like R2-Detour.  That's why we couldn't resist forking it from its original designer, the incredible **Andi Haller**. Now, **Andi** is an absolute genius when it comes to design and an awesome teacher! His creations not only captivate English-speaking audiences but also open up a world of inspiration for Spanish speakers. You can find him showcasing his incredible work on Instagram, YouTube, and probably other social networks too – he's just that good!
